@@ -21,12 +21,11 @@ Once imported, syntax for implemented functions should be identical to RPi.GPIO.
 
 # Test Platform
 
-All testing of this library is done on a Rock64 (1GB model) running [Ayufan release 0.5.15](https://github.com/ayufan-rock64/linux-build/releases/tag/0.5.15) (Debian Jessie).
-
-Compatability with other versions of Linux running on the Rock64 is not gauranteed.
+All testing of this library is done on a RockPro64 2GB running Armbian 5.67 Stretch
+Compatability with other versions of Linux running on the RockPro64 is not gauranteed.
 
 # Resources
 List of resources and reference material used while building the scripts and libraries in this repository
-* [Sourceforge - RPi.GPIO](https://sourceforge.net/projects/raspberry-gpio-python/)
-* [Kernel.org - GPIO/SYSFS Documentation](https://www.kernel.org/doc/Documentation/gpio/sysfs.txt)
+* [Github Leapo](https://github.com/Leapo/Rock64-R64.GPIO/)
 * [Pine64 Forum - GPIO LED blinker using SYSFS on the Rock64](https://forum.pine64.org/showthread.php?tid=4695)
+* [RockPro64 Pi-2 bus definition](http://files.pine64.org/doc/rockpro64/Rockpro64%20Pi-2%20Connector%20ver0.2.png)
