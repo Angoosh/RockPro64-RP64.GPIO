@@ -31,4 +31,5 @@ List of resources and reference material used while building the scripts and lib
 * [RockPro64 Pi-2 bus definition](http://files.pine64.org/doc/rockpro64/Rockpro64%20Pi-2%20Connector%20ver0.2.png)
 
 # Known issues:
-  GPIO pins 19 and 26 don't work.
+  GPIO pin 26 doesn't work.
+  Scripts must be ran as root
