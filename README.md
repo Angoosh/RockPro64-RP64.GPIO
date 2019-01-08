@@ -17,6 +17,12 @@ Below is the reccomended method for importing this library into your project. Fo
 1. Place the "R64" folder in the same directory as the Python script you're working with.
 1. Within your script, substitute the traditional "`import RPi.GPIO as GPIO`" line for "`import R64.GPIO as GPIO`".
 
+or
+
+```
+sudo pip install git+https://github.com/Angoosh/RockPro64-RP64.GPIO
+```
+
 Once imported, syntax for implemented functions should be identical to RPi.GPIO.
 
 # Test Platform
