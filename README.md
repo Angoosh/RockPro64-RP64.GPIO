@@ -38,4 +38,4 @@ List of resources and reference material used while building the scripts and lib
 
 # Known issues:
   GPIO pin 26 doesn't work.
-  Scripts must be ran as root
+  Scripts must be run as root
