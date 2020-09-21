@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="RP64.GPIO",
-    version="0.0.2",
+    version="0.0.3",
     author="Angoosh",
     author_email="angoosh3d@gmail.com.com",
     description="RockPro64 GPIO package",
